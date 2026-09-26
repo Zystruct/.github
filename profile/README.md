@@ -48,14 +48,6 @@ Plataforma integral orientada a la digitalización, telemetría y modernización
 
 ---
 
-### Identidad Corporativa
-
-<div align="center">
-  <img src="../images/mockup-tarjetas-presentacion.png" alt="Identidad Corporativa Zystruct" width="480">
-</div>
-
----
-
 ### Contacto
 
 * **GitHub:** [github.com/Zystruct](https://github.com/Zystruct)
